@@ -1,7 +1,7 @@
 # rhps
 <font color=#FFFF00>Welcome to the Rocky Horror
 Double Feature AP Track!</font>
-
+<span style="color:blue">some *blue* text</span>.
 <font color=#FFFF00>Shout the yellow subtitles only,</font>
 <font color=#ffffff>White subtitles are from the movie!</font>
 
